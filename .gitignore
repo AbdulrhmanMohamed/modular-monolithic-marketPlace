@@ -1,0 +1,83 @@
+# .NET
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+packages/
+*.nuget.pkg
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/launch.json
+.vscode/tasks.json
+
+# Visual Studio Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test results
+TestResults/
+coverage/
+
+# secrets
+*.key
+*.pfx
+*.cer
+*.env
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+# Justification folder
+justification/
+docs/

@@ -1,0 +1,44 @@
+# IDE0005 - Remove unnecessary imports
+dotnet_diagnostic.IDE0005.severity = warning
+
+# Also enable other code style rules
+dotnet_diagnostic.IDE0001.severity = suggestion
+dotnet_diagnostic.IDE0002.severity = suggestion
+dotnet_diagnostic.IDE0003.severity = suggestion
+dotnet_diagnostic.IDE0004.severity = suggestion
+dotnet_diagnostic.IDE0006.severity = suggestion
+dotnet_diagnostic.IDE0007.severity = suggestion
+dotnet_diagnostic.IDE0008.severity = suggestion
+dotnet_diagnostic.IDE0009.severity = suggestion
+dotnet_diagnostic.IDE0010.severity = suggestion
+dotnet_diagnostic.IDE0011.severity = suggestion
+dotnet_diagnostic.IDE0012.severity = suggestion
+dotnet_diagnostic.IDE0013.severity = suggestion
+dotnet_diagnostic.IDE0014.severity = suggestion
+dotnet_diagnostic.IDE0015.severity = suggestion
+dotnet_diagnostic.IDE0016.severity = suggestion
+dotnet_diagnostic.IDE0017.severity = suggestion
+dotnet_diagnostic.IDE0018.severity = suggestion
+dotnet_diagnostic.IDE0019.severity = suggestion
+dotnet_diagnostic.IDE0020.severity = suggestion
+dotnet_diagnostic.IDE0021.severity = suggestion
+dotnet_diagnostic.IDE0022.severity = suggestion
+dotnet_diagnostic.IDE0023.severity = suggestion
+dotnet_diagnostic.IDE0024.severity = suggestion
+dotnet_diagnostic.IDE0025.severity = suggestion
+dotnet_diagnostic.IDE0026.severity = suggestion
+dotnet_diagnostic.IDE0027.severity = suggestion
+dotnet_diagnostic.IDE0028.severity = suggestion
+dotnet_diagnostic.IDE0029.severity = suggestion
+dotnet_diagnostic.IDE0030.severity = suggestion
+dotnet_diagnostic.IDE0031.severity = suggestion
+dotnet_diagnostic.IDE0032.severity = suggestion
+dotnet_diagnostic.IDE0033.severity = suggestion
+dotnet_diagnostic.IDE0034.severity = suggestion
+dotnet_diagnostic.IDE0035.severity = suggestion
+dotnet_diagnostic.IDE0036.severity = suggestion
+dotnet_diagnostic.IDE0037.severity = suggestion
+dotnet_diagnostic.IDE0038.severity = suggestion
+
+# CS8019 - Unnecessary removing directive
+dotnet_diagnostic.CS8019.severity = warning

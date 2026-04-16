@@ -1,0 +1,38 @@
+[*.{cs,vb}]
+# Enable IDE0005 on build
+dotnet_diagnostic.IDE0005.severity = warning
+
+# Disable other code style noise
+dotnet_diagnostic.IDE0001.severity = none
+dotnet_diagnostic.IDE0002.severity = none
+dotnet_diagnostic.IDE0003.severity = none
+dotnet_diagnostic.IDE0004.severity = none
+dotnet_diagnostic.IDE0006.severity = none
+dotnet_diagnostic.IDE0007.severity = none
+dotnet_diagnostic.IDE0008.severity = none
+dotnet_diagnostic.IDE0009.severity = none
+dotnet_diagnostic.IDE0010.severity = none
+dotnet_diagnostic.IDE0011.severity = none
+dotnet_diagnostic.IDE0012.severity = none
+dotnet_diagnostic.IDE0013.severity = none
+dotnet_diagnostic.IDE0014.severity = none
+dotnet_diagnostic.IDE0015.severity = none
+dotnet_diagnostic.IDE0016.severity = none
+dotnet_diagnostic.IDE0017.severity = none
+dotnet_diagnostic.IDE0018.severity = none
+dotnet_diagnostic.IDE0019.severity = none
+dotnet_diagnostic.IDE0020.severity = none
+dotnet_diagnostic.IDE0021.severity = none
+dotnet_diagnostic.IDE0022.severity = none
+dotnet_diagnostic.IDE0023.severity = none
+dotnet_diagnostic.IDE0024.severity = none
+dotnet_diagnostic.IDE0025.severity = none
+dotnet_diagnostic.IDE0026.severity = none
+dotnet_diagnostic.IDE0027.severity = none
+dotnet_diagnostic.IDE0028.severity = none
+
+# Disable XML doc warnings
+dotnet_diagnostic.CS1591.severity = none
+
+# Suppress all analyzer warnings
+dotnet_analyzer_diagnostic.severity = none
