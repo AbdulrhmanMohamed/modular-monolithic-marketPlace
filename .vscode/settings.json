@@ -1,0 +1,12 @@
+{
+  "dotnet.server.useOmnisharp": false,
+  "csharp.extensionPath": "./",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "files.exclude": {
+    "**/bin": true,
+    "**/obj": true
+  }
+}

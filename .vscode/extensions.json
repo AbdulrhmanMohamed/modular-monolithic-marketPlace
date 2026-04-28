@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "ms-vscode.powershell",
+    "davidwalsh.component-discovery",
+    "fudge.auto-import",
+    "jchannon.csharpextensions",
+    "k--kato.docomment",
+    "mikehealy.protectfocus"
+  ]
+}
