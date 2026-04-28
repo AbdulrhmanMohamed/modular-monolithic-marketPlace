@@ -40,7 +40,9 @@ packages/
 .vscode/tasks.json
 
 # Visual Studio Code
-.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
 
 # ReSharper
 _ReSharper*/
@@ -80,4 +82,3 @@ appsettings.*.json
 
 # Justification folder
 justification/
-docs/
